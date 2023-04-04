@@ -21,7 +21,7 @@ The above denominations are the denominations used in Kenya currently.
 
 ### Screenshots
 
-![Preview](./screenshots/Screenshot from 2023-04-04 22-33-05.png)
+<img src="screenshots/Screenshot from 2023-04-04 22-33-05.png" alt="Preview" />
 
 ### Built with
 
